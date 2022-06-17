@@ -1,0 +1,21 @@
+td, th {
+    width: 20px;
+    height: 20px;
+    background: lightblue;
+    border: 1px solid black;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: end;
+    a {
+        margin-right: 1rem;
+    }
+}
+
+
+body {
+    max-width: 900px;
+    margin: 0 auto;
+}
